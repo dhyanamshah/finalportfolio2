@@ -8,7 +8,7 @@ export const DATA = {
   location: "Mumbai, India",
   locationLink: "https://www.google.com/maps/place/mumbai",
   description:
-    "Passionate about the intersection of finance and technology, with a strong background in programming, robotics and financial market analysis.",
+    "17, Passionate about the intersection of finance and technology, with a strong background in programming, robotics and financial market analysis.",
   summary:
   "I spend a lot of my time tinkering and building new ideas I find interesting. Passionate about the intersection of finance and technology, with a strong background in programming, robotics and financial market analysis.",
   
