@@ -644,7 +644,7 @@ export const DATA = {
       title: " Young Innovator Award 2025",
       dates: "2025",
       organization: "Global Goals Youth",
-      description: "Selected as one of the Top 50 representatives from Asia & the Pacific for the Global Youth Innovation Summit 2025 in Japan.",
+      description: "Selected as one of the Top 50 representatives from Asia & the Pacific, with a leadership grant for the Global Youth Innovation Summit 2025 in Japan.",
       image: "",
       links: []
     },
